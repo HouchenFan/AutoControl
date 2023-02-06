@@ -1,0 +1,7 @@
+EGSnrc egs-parallel 2022-12-07 (UTC) 12:08:10.023527325: BEGIN egs-parallel
+EGSnrc egs-parallel 2022-12-07 (UTC) 12:08:10.027282447: EGSnrc environment:
+EGSnrc egs-parallel 2022-12-07 (UTC) 12:08:10.031002868:     HEN_HOUSE  = /home/uih/EGSnrc/HEN_HOUSE/
+EGSnrc egs-parallel 2022-12-07 (UTC) 12:08:10.034764609:     EGS_HOME   = /home/uih/EGSnrc/egs_home/
+EGSnrc egs-parallel 2022-12-07 (UTC) 12:08:10.038437868:     EGS_CONFIG = /home/uih/EGSnrc/HEN_HOUSE/specs/linux64.conf
+EGSnrc egs-parallel 2022-12-07 (UTC) 12:08:10.050421755: egs-parallel: line 204: cannot access input file: /home/uih/EGSnrc/egs_home/dosxyznrc/TM_Gan90_eFOV.egsinp.egsinp
+EGSnrc egs-parallel 2022-12-07 (UTC) 12:08:10.054046572: QUIT.

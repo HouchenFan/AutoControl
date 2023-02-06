@@ -1,0 +1,7 @@
+EGSnrc egs-parallel 2022-08-17 (UTC) 03:22:05.667741700: BEGIN egs-parallel
+EGSnrc egs-parallel 2022-08-17 (UTC) 03:22:05.778141900: EGSnrc environment:
+EGSnrc egs-parallel 2022-08-17 (UTC) 03:22:05.885354400:     HEN_HOUSE  = D:/EGSnrc/HEN_HOUSE/
+EGSnrc egs-parallel 2022-08-17 (UTC) 03:22:05.994640000:     EGS_HOME   = D:/EGSnrc/egs_home
+EGSnrc egs-parallel 2022-08-17 (UTC) 03:22:06.121207800:     EGS_CONFIG = D:/EGSnrc/HEN_HOUSE/specs/win3264.conf
+EGSnrc egs-parallel 2022-08-17 (UTC) 03:22:06.356009000: egs-parallel: line 204: cannot access input file: D:/EGSnrc/egs_home/dosxyznrc/EGS.egsinp.egsinp
+EGSnrc egs-parallel 2022-08-17 (UTC) 03:22:06.455270500: QUIT.

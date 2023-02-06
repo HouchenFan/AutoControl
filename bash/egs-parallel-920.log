@@ -1,0 +1,7 @@
+EGSnrc egs-parallel 2022-08-17 (UTC) 03:21:19.268296200: BEGIN egs-parallel
+EGSnrc egs-parallel 2022-08-17 (UTC) 03:21:19.389785400: EGSnrc environment:
+EGSnrc egs-parallel 2022-08-17 (UTC) 03:21:19.498399700:     HEN_HOUSE  = D:/EGSnrc/HEN_HOUSE/
+EGSnrc egs-parallel 2022-08-17 (UTC) 03:21:19.569892200:     EGS_HOME   = D:/EGSnrc/egs_home
+EGSnrc egs-parallel 2022-08-17 (UTC) 03:21:19.688382800:     EGS_CONFIG = D:/EGSnrc/HEN_HOUSE/specs/win3264.conf
+EGSnrc egs-parallel 2022-08-17 (UTC) 03:21:19.927774600: egs-parallel: line 184: missing argument to -i option in run command: dosxyznrc -i  -p 
+EGSnrc egs-parallel 2022-08-17 (UTC) 03:21:20.058647500: QUIT.

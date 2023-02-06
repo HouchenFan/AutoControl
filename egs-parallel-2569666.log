@@ -1,0 +1,7 @@
+EGSnrc egs-parallel 2023-02-01 (UTC) 07:25:32.760861908: BEGIN egs-parallel
+EGSnrc egs-parallel 2023-02-01 (UTC) 07:25:32.764514831: EGSnrc environment:
+EGSnrc egs-parallel 2023-02-01 (UTC) 07:25:32.768192013:     HEN_HOUSE  = /home/uih/EGSnrc/HEN_HOUSE/
+EGSnrc egs-parallel 2023-02-01 (UTC) 07:25:32.771891126:     EGS_HOME   = /home/uih/EGSnrc/egs_home/
+EGSnrc egs-parallel 2023-02-01 (UTC) 07:25:32.775659945:     EGS_CONFIG = /home/uih/EGSnrc/HEN_HOUSE/specs/linux64.conf
+EGSnrc egs-parallel 2023-02-01 (UTC) 07:25:32.784860330: egs-parallel: line 174: no such egsnrc executable found: UIH_506C_ISO_W10Cu15
+EGSnrc egs-parallel 2023-02-01 (UTC) 07:25:32.788446211: QUIT.

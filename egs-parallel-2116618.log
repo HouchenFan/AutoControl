@@ -1,0 +1,7 @@
+EGSnrc egs-parallel 2023-01-12 (UTC) 03:52:20.059885000: BEGIN egs-parallel
+EGSnrc egs-parallel 2023-01-12 (UTC) 03:52:20.063688367: EGSnrc environment:
+EGSnrc egs-parallel 2023-01-12 (UTC) 03:52:20.067326739:     HEN_HOUSE  = /home/uih/EGSnrc/HEN_HOUSE/
+EGSnrc egs-parallel 2023-01-12 (UTC) 03:52:20.071023773:     EGS_HOME   = /home/uih/EGSnrc/egs_home/
+EGSnrc egs-parallel 2023-01-12 (UTC) 03:52:20.074752707:     EGS_CONFIG = /home/uih/EGSnrc/HEN_HOUSE/specs/linux64.conf
+EGSnrc egs-parallel 2023-01-12 (UTC) 03:52:20.095619167: egs-parallel: line 204: cannot access input file: /home/uih/EGSnrc/egs_home/BEAM_UIH_6MV/UIH_506C_W10Cu15.egsinp.egsinp
+EGSnrc egs-parallel 2023-01-12 (UTC) 03:52:20.099338894: QUIT.

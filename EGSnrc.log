@@ -1,0 +1,381 @@
+2023-02-04 14:52:27,781 AutoBeamAndDose_fhc.py[line:159] DEBUG Start call: AutoTBL in 2023-02-04 14:52:27
+2023-02-04 14:52:27,781 AutoBeamAndDose_fhc.py[line:159] DEBUG Start call: Beam in 2023-02-04 14:52:27
+2023-02-04 14:55:07,408 AutoBeamAndDose_fhc.py[line:159] DEBUG Start call: AddPhspNew in 2023-02-04 14:55:07
+2023-02-04 14:55:09,061 AutoBeamAndDose_fhc.py[line:159] DEBUG Start call: SortPhspFile in 2023-02-04 14:55:09
+2023-02-04 14:55:09,085 AutoBeamAndDose_fhc.py[line:159] DEBUG Stop  call: SortPhspFile in 2023-02-04 14:55:09, Total 0.02 seconds.
+2023-02-04 14:55:28,228 AutoBeamAndDose_fhc.py[line:159] DEBUG Stop  call: AddPhspNew in 2023-02-04 14:55:28, Total 20.82 seconds.
+2023-02-04 14:55:28,229 AutoBeamAndDose_fhc.py[line:159] DEBUG Stop  call: Beam in 2023-02-04 14:55:28, Total 180.45 seconds.
+2023-02-04 14:55:28,229 AutoBeamAndDose_fhc.py[line:159] DEBUG Stop  call: AutoTBL in 2023-02-04 14:55:28, Total 180.45 seconds.
+2023-02-04 14:55:28,229 AutoBeamAndDose_fhc.py[line:159] DEBUG Start call: AutoTBL in 2023-02-04 14:55:28
+2023-02-04 14:55:28,231 AutoBeamAndDose_fhc.py[line:159] DEBUG Start call: Beam in 2023-02-04 14:55:28
+2023-02-04 14:58:11,227 AutoBeamAndDose_fhc.py[line:159] DEBUG Start call: AddPhspNew in 2023-02-04 14:58:11
+2023-02-04 14:58:12,875 AutoBeamAndDose_fhc.py[line:159] DEBUG Start call: SortPhspFile in 2023-02-04 14:58:12
+2023-02-04 14:58:12,899 AutoBeamAndDose_fhc.py[line:159] DEBUG Stop  call: SortPhspFile in 2023-02-04 14:58:12, Total 0.02 seconds.
+2023-02-04 14:58:31,953 AutoBeamAndDose_fhc.py[line:159] DEBUG Stop  call: AddPhspNew in 2023-02-04 14:58:31, Total 20.73 seconds.
+2023-02-04 14:58:31,954 AutoBeamAndDose_fhc.py[line:159] DEBUG Stop  call: Beam in 2023-02-04 14:58:31, Total 183.72 seconds.
+2023-02-04 14:58:31,954 AutoBeamAndDose_fhc.py[line:159] DEBUG Stop  call: AutoTBL in 2023-02-04 14:58:31, Total 183.72 seconds.
+2023-02-04 14:58:31,954 AutoBeamAndDose_fhc.py[line:159] DEBUG Start call: AutoTBL in 2023-02-04 14:58:31
+2023-02-04 14:58:31,955 AutoBeamAndDose_fhc.py[line:159] DEBUG Start call: Beam in 2023-02-04 14:58:31
+2023-02-04 15:01:15,487 AutoBeamAndDose_fhc.py[line:159] DEBUG Start call: AddPhspNew in 2023-02-04 15:01:15
+2023-02-04 15:01:17,116 AutoBeamAndDose_fhc.py[line:159] DEBUG Start call: SortPhspFile in 2023-02-04 15:01:17
+2023-02-04 15:01:17,140 AutoBeamAndDose_fhc.py[line:159] DEBUG Stop  call: SortPhspFile in 2023-02-04 15:01:17, Total 0.02 seconds.
+2023-02-04 15:01:36,012 AutoBeamAndDose_fhc.py[line:159] DEBUG Stop  call: AddPhspNew in 2023-02-04 15:01:36, Total 20.53 seconds.
+2023-02-04 15:01:36,013 AutoBeamAndDose_fhc.py[line:159] DEBUG Stop  call: Beam in 2023-02-04 15:01:36, Total 184.06 seconds.
+2023-02-04 15:01:36,013 AutoBeamAndDose_fhc.py[line:159] DEBUG Stop  call: AutoTBL in 2023-02-04 15:01:36, Total 184.06 seconds.
+2023-02-04 15:01:36,014 AutoBeamAndDose_fhc.py[line:159] DEBUG Start call: AutoTBL in 2023-02-04 15:01:36
+2023-02-04 15:01:36,015 AutoBeamAndDose_fhc.py[line:159] DEBUG Start call: Beam in 2023-02-04 15:01:36
+2023-02-04 15:04:19,605 AutoBeamAndDose_fhc.py[line:159] DEBUG Start call: AddPhspNew in 2023-02-04 15:04:19
+2023-02-04 15:04:21,262 AutoBeamAndDose_fhc.py[line:159] DEBUG Start call: SortPhspFile in 2023-02-04 15:04:21
+2023-02-04 15:04:21,291 AutoBeamAndDose_fhc.py[line:159] DEBUG Stop  call: SortPhspFile in 2023-02-04 15:04:21, Total 0.03 seconds.
+2023-02-04 15:04:40,352 AutoBeamAndDose_fhc.py[line:159] DEBUG Stop  call: AddPhspNew in 2023-02-04 15:04:40, Total 20.75 seconds.
+2023-02-04 15:04:40,353 AutoBeamAndDose_fhc.py[line:159] DEBUG Stop  call: Beam in 2023-02-04 15:04:40, Total 184.34 seconds.
+2023-02-04 15:04:40,353 AutoBeamAndDose_fhc.py[line:159] DEBUG Stop  call: AutoTBL in 2023-02-04 15:04:40, Total 184.34 seconds.
+2023-02-04 15:04:40,354 AutoBeamAndDose_fhc.py[line:159] DEBUG Start call: AutoTBL in 2023-02-04 15:04:40
+2023-02-04 15:04:40,356 AutoBeamAndDose_fhc.py[line:159] DEBUG Start call: Beam in 2023-02-04 15:04:40
+2023-02-04 15:07:29,313 AutoBeamAndDose_fhc.py[line:159] DEBUG Start call: AddPhspNew in 2023-02-04 15:07:29
+2023-02-04 15:07:30,973 AutoBeamAndDose_fhc.py[line:159] DEBUG Start call: SortPhspFile in 2023-02-04 15:07:30
+2023-02-04 15:07:30,997 AutoBeamAndDose_fhc.py[line:159] DEBUG Stop  call: SortPhspFile in 2023-02-04 15:07:30, Total 0.02 seconds.
+2023-02-04 15:07:49,951 AutoBeamAndDose_fhc.py[line:159] DEBUG Stop  call: AddPhspNew in 2023-02-04 15:07:49, Total 20.64 seconds.
+2023-02-04 15:07:49,951 AutoBeamAndDose_fhc.py[line:159] DEBUG Stop  call: Beam in 2023-02-04 15:07:49, Total 189.60 seconds.
+2023-02-04 15:07:49,952 AutoBeamAndDose_fhc.py[line:159] DEBUG Stop  call: AutoTBL in 2023-02-04 15:07:49, Total 189.60 seconds.
+2023-02-04 15:07:49,952 AutoBeamAndDose_fhc.py[line:159] DEBUG Start call: AutoTBL in 2023-02-04 15:07:49
+2023-02-04 15:07:49,953 AutoBeamAndDose_fhc.py[line:159] DEBUG Start call: Beam in 2023-02-04 15:07:49
+2023-02-04 15:10:32,389 AutoBeamAndDose_fhc.py[line:159] DEBUG Start call: AddPhspNew in 2023-02-04 15:10:32
+2023-02-04 15:10:34,055 AutoBeamAndDose_fhc.py[line:159] DEBUG Start call: SortPhspFile in 2023-02-04 15:10:34
+2023-02-04 15:10:34,079 AutoBeamAndDose_fhc.py[line:159] DEBUG Stop  call: SortPhspFile in 2023-02-04 15:10:34, Total 0.02 seconds.
+2023-02-04 15:10:52,968 AutoBeamAndDose_fhc.py[line:159] DEBUG Stop  call: AddPhspNew in 2023-02-04 15:10:52, Total 20.58 seconds.
+2023-02-04 15:10:52,968 AutoBeamAndDose_fhc.py[line:159] DEBUG Stop  call: Beam in 2023-02-04 15:10:52, Total 183.02 seconds.
+2023-02-04 15:10:52,969 AutoBeamAndDose_fhc.py[line:159] DEBUG Stop  call: AutoTBL in 2023-02-04 15:10:52, Total 183.02 seconds.
+2023-02-04 15:10:52,969 AutoBeamAndDose_fhc.py[line:159] DEBUG Start call: AutoTBL in 2023-02-04 15:10:52
+2023-02-04 15:10:52,970 AutoBeamAndDose_fhc.py[line:159] DEBUG Start call: Beam in 2023-02-04 15:10:52
+2023-02-04 15:13:34,057 AutoBeamAndDose_fhc.py[line:159] DEBUG Start call: AddPhspNew in 2023-02-04 15:13:34
+2023-02-04 15:13:35,705 AutoBeamAndDose_fhc.py[line:159] DEBUG Start call: SortPhspFile in 2023-02-04 15:13:35
+2023-02-04 15:13:35,730 AutoBeamAndDose_fhc.py[line:159] DEBUG Stop  call: SortPhspFile in 2023-02-04 15:13:35, Total 0.02 seconds.
+2023-02-04 15:13:54,441 AutoBeamAndDose_fhc.py[line:159] DEBUG Stop  call: AddPhspNew in 2023-02-04 15:13:54, Total 20.38 seconds.
+2023-02-04 15:13:54,442 AutoBeamAndDose_fhc.py[line:159] DEBUG Stop  call: Beam in 2023-02-04 15:13:54, Total 181.47 seconds.
+2023-02-04 15:13:54,442 AutoBeamAndDose_fhc.py[line:159] DEBUG Stop  call: AutoTBL in 2023-02-04 15:13:54, Total 181.47 seconds.
+2023-02-04 15:13:54,443 AutoBeamAndDose_fhc.py[line:159] DEBUG Start call: AutoTBL in 2023-02-04 15:13:54
+2023-02-04 15:13:54,444 AutoBeamAndDose_fhc.py[line:159] DEBUG Start call: Beam in 2023-02-04 15:13:54
+2023-02-04 15:16:39,575 AutoBeamAndDose_fhc.py[line:159] DEBUG Start call: AddPhspNew in 2023-02-04 15:16:39
+2023-02-04 15:16:41,260 AutoBeamAndDose_fhc.py[line:159] DEBUG Start call: SortPhspFile in 2023-02-04 15:16:41
+2023-02-04 15:16:41,285 AutoBeamAndDose_fhc.py[line:159] DEBUG Stop  call: SortPhspFile in 2023-02-04 15:16:41, Total 0.02 seconds.
+2023-02-04 15:16:59,903 AutoBeamAndDose_fhc.py[line:159] DEBUG Stop  call: AddPhspNew in 2023-02-04 15:16:59, Total 20.33 seconds.
+2023-02-04 15:16:59,903 AutoBeamAndDose_fhc.py[line:159] DEBUG Stop  call: Beam in 2023-02-04 15:16:59, Total 185.46 seconds.
+2023-02-04 15:16:59,903 AutoBeamAndDose_fhc.py[line:159] DEBUG Stop  call: AutoTBL in 2023-02-04 15:16:59, Total 185.46 seconds.
+2023-02-04 15:16:59,904 AutoBeamAndDose_fhc.py[line:159] DEBUG Start call: AutoTBL in 2023-02-04 15:16:59
+2023-02-04 15:16:59,905 AutoBeamAndDose_fhc.py[line:159] DEBUG Start call: Beam in 2023-02-04 15:16:59
+2023-02-04 15:19:44,735 AutoBeamAndDose_fhc.py[line:159] DEBUG Start call: AddPhspNew in 2023-02-04 15:19:44
+2023-02-04 15:19:46,255 AutoBeamAndDose_fhc.py[line:159] DEBUG Start call: SortPhspFile in 2023-02-04 15:19:46
+2023-02-04 15:19:46,277 AutoBeamAndDose_fhc.py[line:159] DEBUG Stop  call: SortPhspFile in 2023-02-04 15:19:46, Total 0.02 seconds.
+2023-02-04 15:20:05,140 AutoBeamAndDose_fhc.py[line:159] DEBUG Stop  call: AddPhspNew in 2023-02-04 15:20:05, Total 20.40 seconds.
+2023-02-04 15:20:05,141 AutoBeamAndDose_fhc.py[line:159] DEBUG Stop  call: Beam in 2023-02-04 15:20:05, Total 185.24 seconds.
+2023-02-04 15:20:05,141 AutoBeamAndDose_fhc.py[line:159] DEBUG Stop  call: AutoTBL in 2023-02-04 15:20:05, Total 185.24 seconds.
+2023-02-04 15:20:05,141 AutoBeamAndDose_fhc.py[line:159] DEBUG Start call: AutoTBL in 2023-02-04 15:20:05
+2023-02-04 15:20:05,142 AutoBeamAndDose_fhc.py[line:159] DEBUG Start call: Beam in 2023-02-04 15:20:05
+2023-02-04 15:22:55,360 AutoBeamAndDose_fhc.py[line:159] DEBUG Start call: AddPhspNew in 2023-02-04 15:22:55
+2023-02-04 15:22:57,028 AutoBeamAndDose_fhc.py[line:159] DEBUG Start call: SortPhspFile in 2023-02-04 15:22:57
+2023-02-04 15:22:57,053 AutoBeamAndDose_fhc.py[line:159] DEBUG Stop  call: SortPhspFile in 2023-02-04 15:22:57, Total 0.02 seconds.
+2023-02-04 15:23:16,063 AutoBeamAndDose_fhc.py[line:159] DEBUG Stop  call: AddPhspNew in 2023-02-04 15:23:16, Total 20.70 seconds.
+2023-02-04 15:23:16,064 AutoBeamAndDose_fhc.py[line:159] DEBUG Stop  call: Beam in 2023-02-04 15:23:16, Total 190.92 seconds.
+2023-02-04 15:23:16,064 AutoBeamAndDose_fhc.py[line:159] DEBUG Stop  call: AutoTBL in 2023-02-04 15:23:16, Total 190.92 seconds.
+2023-02-04 15:23:16,064 AutoBeamAndDose_fhc.py[line:159] DEBUG Start call: AutoTBL in 2023-02-04 15:23:16
+2023-02-04 15:23:16,065 AutoBeamAndDose_fhc.py[line:159] DEBUG Start call: Beam in 2023-02-04 15:23:16
+2023-02-04 15:26:01,475 AutoBeamAndDose_fhc.py[line:159] DEBUG Start call: AddPhspNew in 2023-02-04 15:26:01
+2023-02-04 15:26:03,140 AutoBeamAndDose_fhc.py[line:159] DEBUG Start call: SortPhspFile in 2023-02-04 15:26:03
+2023-02-04 15:26:03,165 AutoBeamAndDose_fhc.py[line:159] DEBUG Stop  call: SortPhspFile in 2023-02-04 15:26:03, Total 0.02 seconds.
+2023-02-04 15:26:22,345 AutoBeamAndDose_fhc.py[line:159] DEBUG Stop  call: AddPhspNew in 2023-02-04 15:26:22, Total 20.87 seconds.
+2023-02-04 15:26:22,345 AutoBeamAndDose_fhc.py[line:159] DEBUG Stop  call: Beam in 2023-02-04 15:26:22, Total 186.28 seconds.
+2023-02-04 15:26:22,346 AutoBeamAndDose_fhc.py[line:159] DEBUG Stop  call: AutoTBL in 2023-02-04 15:26:22, Total 186.28 seconds.
+2023-02-04 15:26:22,346 AutoBeamAndDose_fhc.py[line:159] DEBUG Start call: AutoTBL in 2023-02-04 15:26:22
+2023-02-04 15:26:22,347 AutoBeamAndDose_fhc.py[line:159] DEBUG Start call: Beam in 2023-02-04 15:26:22
+2023-02-04 15:29:05,235 AutoBeamAndDose_fhc.py[line:159] DEBUG Start call: AddPhspNew in 2023-02-04 15:29:05
+2023-02-04 15:29:06,884 AutoBeamAndDose_fhc.py[line:159] DEBUG Start call: SortPhspFile in 2023-02-04 15:29:06
+2023-02-04 15:29:06,908 AutoBeamAndDose_fhc.py[line:159] DEBUG Stop  call: SortPhspFile in 2023-02-04 15:29:06, Total 0.02 seconds.
+2023-02-04 15:29:25,858 AutoBeamAndDose_fhc.py[line:159] DEBUG Stop  call: AddPhspNew in 2023-02-04 15:29:25, Total 20.62 seconds.
+2023-02-04 15:29:25,859 AutoBeamAndDose_fhc.py[line:159] DEBUG Stop  call: Beam in 2023-02-04 15:29:25, Total 183.51 seconds.
+2023-02-04 15:29:25,859 AutoBeamAndDose_fhc.py[line:159] DEBUG Stop  call: AutoTBL in 2023-02-04 15:29:25, Total 183.51 seconds.
+2023-02-04 15:29:25,859 AutoBeamAndDose_fhc.py[line:159] DEBUG Start call: AutoTBL in 2023-02-04 15:29:25
+2023-02-04 15:29:25,860 AutoBeamAndDose_fhc.py[line:159] DEBUG Start call: Beam in 2023-02-04 15:29:25
+2023-02-04 15:32:10,100 AutoBeamAndDose_fhc.py[line:159] DEBUG Start call: AddPhspNew in 2023-02-04 15:32:10
+2023-02-04 15:32:11,734 AutoBeamAndDose_fhc.py[line:159] DEBUG Start call: SortPhspFile in 2023-02-04 15:32:11
+2023-02-04 15:32:11,757 AutoBeamAndDose_fhc.py[line:159] DEBUG Stop  call: SortPhspFile in 2023-02-04 15:32:11, Total 0.02 seconds.
+2023-02-04 15:32:30,696 AutoBeamAndDose_fhc.py[line:159] DEBUG Stop  call: AddPhspNew in 2023-02-04 15:32:30, Total 20.59 seconds.
+2023-02-04 15:32:30,696 AutoBeamAndDose_fhc.py[line:159] DEBUG Stop  call: Beam in 2023-02-04 15:32:30, Total 184.84 seconds.
+2023-02-04 15:32:30,696 AutoBeamAndDose_fhc.py[line:159] DEBUG Stop  call: AutoTBL in 2023-02-04 15:32:30, Total 184.84 seconds.
+2023-02-04 15:32:30,697 AutoBeamAndDose_fhc.py[line:159] DEBUG Start call: AutoTBL in 2023-02-04 15:32:30
+2023-02-04 15:32:30,698 AutoBeamAndDose_fhc.py[line:159] DEBUG Start call: Beam in 2023-02-04 15:32:30
+2023-02-04 15:35:13,992 AutoBeamAndDose_fhc.py[line:159] DEBUG Start call: AddPhspNew in 2023-02-04 15:35:13
+2023-02-04 15:35:15,634 AutoBeamAndDose_fhc.py[line:159] DEBUG Start call: SortPhspFile in 2023-02-04 15:35:15
+2023-02-04 15:35:15,658 AutoBeamAndDose_fhc.py[line:159] DEBUG Stop  call: SortPhspFile in 2023-02-04 15:35:15, Total 0.02 seconds.
+2023-02-04 15:35:34,807 AutoBeamAndDose_fhc.py[line:159] DEBUG Stop  call: AddPhspNew in 2023-02-04 15:35:34, Total 20.81 seconds.
+2023-02-04 15:35:34,808 AutoBeamAndDose_fhc.py[line:159] DEBUG Stop  call: Beam in 2023-02-04 15:35:34, Total 184.11 seconds.
+2023-02-04 15:35:34,808 AutoBeamAndDose_fhc.py[line:159] DEBUG Stop  call: AutoTBL in 2023-02-04 15:35:34, Total 184.11 seconds.
+2023-02-04 15:35:34,808 AutoBeamAndDose_fhc.py[line:159] DEBUG Start call: AutoTBL in 2023-02-04 15:35:34
+2023-02-04 15:35:34,809 AutoBeamAndDose_fhc.py[line:159] DEBUG Start call: Beam in 2023-02-04 15:35:34
+2023-02-04 15:38:18,688 AutoBeamAndDose_fhc.py[line:159] DEBUG Start call: AddPhspNew in 2023-02-04 15:38:18
+2023-02-04 15:38:20,340 AutoBeamAndDose_fhc.py[line:159] DEBUG Start call: SortPhspFile in 2023-02-04 15:38:20
+2023-02-04 15:38:20,365 AutoBeamAndDose_fhc.py[line:159] DEBUG Stop  call: SortPhspFile in 2023-02-04 15:38:20, Total 0.02 seconds.
+2023-02-04 15:38:39,669 AutoBeamAndDose_fhc.py[line:159] DEBUG Stop  call: AddPhspNew in 2023-02-04 15:38:39, Total 20.98 seconds.
+2023-02-04 15:38:39,669 AutoBeamAndDose_fhc.py[line:159] DEBUG Stop  call: Beam in 2023-02-04 15:38:39, Total 184.86 seconds.
+2023-02-04 15:38:39,670 AutoBeamAndDose_fhc.py[line:159] DEBUG Stop  call: AutoTBL in 2023-02-04 15:38:39, Total 184.86 seconds.
+2023-02-04 15:38:39,670 AutoBeamAndDose_fhc.py[line:159] DEBUG Start call: AutoTBL in 2023-02-04 15:38:39
+2023-02-04 15:38:39,671 AutoBeamAndDose_fhc.py[line:159] DEBUG Start call: Beam in 2023-02-04 15:38:39
+2023-02-04 15:41:29,762 AutoBeamAndDose_fhc.py[line:159] DEBUG Start call: AddPhspNew in 2023-02-04 15:41:29
+2023-02-04 15:41:31,409 AutoBeamAndDose_fhc.py[line:159] DEBUG Start call: SortPhspFile in 2023-02-04 15:41:31
+2023-02-04 15:41:31,433 AutoBeamAndDose_fhc.py[line:159] DEBUG Stop  call: SortPhspFile in 2023-02-04 15:41:31, Total 0.02 seconds.
+2023-02-04 15:41:50,907 AutoBeamAndDose_fhc.py[line:159] DEBUG Stop  call: AddPhspNew in 2023-02-04 15:41:50, Total 21.14 seconds.
+2023-02-04 15:41:50,908 AutoBeamAndDose_fhc.py[line:159] DEBUG Stop  call: Beam in 2023-02-04 15:41:50, Total 191.24 seconds.
+2023-02-04 15:41:50,908 AutoBeamAndDose_fhc.py[line:159] DEBUG Stop  call: AutoTBL in 2023-02-04 15:41:50, Total 191.24 seconds.
+2023-02-04 15:41:50,908 AutoBeamAndDose_fhc.py[line:159] DEBUG Start call: AutoTBL in 2023-02-04 15:41:50
+2023-02-04 15:41:50,909 AutoBeamAndDose_fhc.py[line:159] DEBUG Start call: Beam in 2023-02-04 15:41:50
+2023-02-04 15:44:36,991 AutoBeamAndDose_fhc.py[line:159] DEBUG Start call: AddPhspNew in 2023-02-04 15:44:36
+2023-02-04 15:44:38,657 AutoBeamAndDose_fhc.py[line:159] DEBUG Start call: SortPhspFile in 2023-02-04 15:44:38
+2023-02-04 15:44:38,680 AutoBeamAndDose_fhc.py[line:159] DEBUG Stop  call: SortPhspFile in 2023-02-04 15:44:38, Total 0.02 seconds.
+2023-02-04 15:44:58,223 AutoBeamAndDose_fhc.py[line:159] DEBUG Stop  call: AddPhspNew in 2023-02-04 15:44:58, Total 21.23 seconds.
+2023-02-04 15:44:58,224 AutoBeamAndDose_fhc.py[line:159] DEBUG Stop  call: Beam in 2023-02-04 15:44:58, Total 187.31 seconds.
+2023-02-04 15:44:58,224 AutoBeamAndDose_fhc.py[line:159] DEBUG Stop  call: AutoTBL in 2023-02-04 15:44:58, Total 187.32 seconds.
+2023-02-04 15:44:58,224 AutoBeamAndDose_fhc.py[line:159] DEBUG Start call: AutoTBL in 2023-02-04 15:44:58
+2023-02-04 15:44:58,226 AutoBeamAndDose_fhc.py[line:159] DEBUG Start call: Beam in 2023-02-04 15:44:58
+2023-02-04 15:47:44,404 AutoBeamAndDose_fhc.py[line:159] DEBUG Start call: AddPhspNew in 2023-02-04 15:47:44
+2023-02-04 15:47:46,078 AutoBeamAndDose_fhc.py[line:159] DEBUG Start call: SortPhspFile in 2023-02-04 15:47:46
+2023-02-04 15:47:46,101 AutoBeamAndDose_fhc.py[line:159] DEBUG Stop  call: SortPhspFile in 2023-02-04 15:47:46, Total 0.02 seconds.
+2023-02-04 15:48:05,577 AutoBeamAndDose_fhc.py[line:159] DEBUG Stop  call: AddPhspNew in 2023-02-04 15:48:05, Total 21.17 seconds.
+2023-02-04 15:48:05,577 AutoBeamAndDose_fhc.py[line:159] DEBUG Stop  call: Beam in 2023-02-04 15:48:05, Total 187.35 seconds.
+2023-02-04 15:48:05,577 AutoBeamAndDose_fhc.py[line:159] DEBUG Stop  call: AutoTBL in 2023-02-04 15:48:05, Total 187.35 seconds.
+2023-02-04 15:48:05,578 AutoBeamAndDose_fhc.py[line:159] DEBUG Start call: AutoTBL in 2023-02-04 15:48:05
+2023-02-04 15:48:05,579 AutoBeamAndDose_fhc.py[line:159] DEBUG Start call: Beam in 2023-02-04 15:48:05
+2023-02-04 15:50:51,558 AutoBeamAndDose_fhc.py[line:159] DEBUG Start call: AddPhspNew in 2023-02-04 15:50:51
+2023-02-04 15:50:53,250 AutoBeamAndDose_fhc.py[line:159] DEBUG Start call: SortPhspFile in 2023-02-04 15:50:53
+2023-02-04 15:50:53,275 AutoBeamAndDose_fhc.py[line:159] DEBUG Stop  call: SortPhspFile in 2023-02-04 15:50:53, Total 0.02 seconds.
+2023-02-04 15:51:12,726 AutoBeamAndDose_fhc.py[line:159] DEBUG Stop  call: AddPhspNew in 2023-02-04 15:51:12, Total 21.17 seconds.
+2023-02-04 15:51:12,727 AutoBeamAndDose_fhc.py[line:159] DEBUG Stop  call: Beam in 2023-02-04 15:51:12, Total 187.15 seconds.
+2023-02-04 15:51:12,727 AutoBeamAndDose_fhc.py[line:159] DEBUG Stop  call: AutoTBL in 2023-02-04 15:51:12, Total 187.15 seconds.
+2023-02-04 15:51:12,727 AutoBeamAndDose_fhc.py[line:159] DEBUG Start call: AutoTBL in 2023-02-04 15:51:12
+2023-02-04 15:51:12,728 AutoBeamAndDose_fhc.py[line:159] DEBUG Start call: Beam in 2023-02-04 15:51:12
+2023-02-04 15:53:58,304 AutoBeamAndDose_fhc.py[line:159] DEBUG Start call: AddPhspNew in 2023-02-04 15:53:58
+2023-02-04 15:53:59,973 AutoBeamAndDose_fhc.py[line:159] DEBUG Start call: SortPhspFile in 2023-02-04 15:53:59
+2023-02-04 15:53:59,996 AutoBeamAndDose_fhc.py[line:159] DEBUG Stop  call: SortPhspFile in 2023-02-04 15:53:59, Total 0.02 seconds.
+2023-02-04 15:54:19,276 AutoBeamAndDose_fhc.py[line:159] DEBUG Stop  call: AddPhspNew in 2023-02-04 15:54:19, Total 20.97 seconds.
+2023-02-04 15:54:19,277 AutoBeamAndDose_fhc.py[line:159] DEBUG Stop  call: Beam in 2023-02-04 15:54:19, Total 186.55 seconds.
+2023-02-04 15:54:19,277 AutoBeamAndDose_fhc.py[line:159] DEBUG Stop  call: AutoTBL in 2023-02-04 15:54:19, Total 186.55 seconds.
+2023-02-04 15:54:19,277 AutoBeamAndDose_fhc.py[line:159] DEBUG Start call: AutoTBL in 2023-02-04 15:54:19
+2023-02-04 15:54:19,278 AutoBeamAndDose_fhc.py[line:159] DEBUG Start call: Beam in 2023-02-04 15:54:19
+2023-02-04 15:57:07,597 AutoBeamAndDose_fhc.py[line:159] DEBUG Start call: AddPhspNew in 2023-02-04 15:57:07
+2023-02-04 15:57:09,284 AutoBeamAndDose_fhc.py[line:159] DEBUG Start call: SortPhspFile in 2023-02-04 15:57:09
+2023-02-04 15:57:09,308 AutoBeamAndDose_fhc.py[line:159] DEBUG Stop  call: SortPhspFile in 2023-02-04 15:57:09, Total 0.02 seconds.
+2023-02-04 15:57:28,462 AutoBeamAndDose_fhc.py[line:159] DEBUG Stop  call: AddPhspNew in 2023-02-04 15:57:28, Total 20.86 seconds.
+2023-02-04 15:57:28,463 AutoBeamAndDose_fhc.py[line:159] DEBUG Stop  call: Beam in 2023-02-04 15:57:28, Total 189.18 seconds.
+2023-02-04 15:57:28,463 AutoBeamAndDose_fhc.py[line:159] DEBUG Stop  call: AutoTBL in 2023-02-04 15:57:28, Total 189.19 seconds.
+2023-02-04 15:57:28,463 AutoBeamAndDose_fhc.py[line:159] DEBUG Start call: AutoTBL in 2023-02-04 15:57:28
+2023-02-04 15:57:28,464 AutoBeamAndDose_fhc.py[line:159] DEBUG Start call: Beam in 2023-02-04 15:57:28
+2023-02-04 16:00:14,648 AutoBeamAndDose_fhc.py[line:159] DEBUG Start call: AddPhspNew in 2023-02-04 16:00:14
+2023-02-04 16:00:16,330 AutoBeamAndDose_fhc.py[line:159] DEBUG Start call: SortPhspFile in 2023-02-04 16:00:16
+2023-02-04 16:00:16,354 AutoBeamAndDose_fhc.py[line:159] DEBUG Stop  call: SortPhspFile in 2023-02-04 16:00:16, Total 0.02 seconds.
+2023-02-04 16:00:35,619 AutoBeamAndDose_fhc.py[line:159] DEBUG Stop  call: AddPhspNew in 2023-02-04 16:00:35, Total 20.97 seconds.
+2023-02-04 16:00:35,620 AutoBeamAndDose_fhc.py[line:159] DEBUG Stop  call: Beam in 2023-02-04 16:00:35, Total 187.16 seconds.
+2023-02-04 16:00:35,620 AutoBeamAndDose_fhc.py[line:159] DEBUG Stop  call: AutoTBL in 2023-02-04 16:00:35, Total 187.16 seconds.
+2023-02-04 16:00:35,620 AutoBeamAndDose_fhc.py[line:159] DEBUG Start call: AutoTBL in 2023-02-04 16:00:35
+2023-02-04 16:00:35,622 AutoBeamAndDose_fhc.py[line:159] DEBUG Start call: Beam in 2023-02-04 16:00:35
+2023-02-04 16:03:21,964 AutoBeamAndDose_fhc.py[line:159] DEBUG Start call: AddPhspNew in 2023-02-04 16:03:21
+2023-02-04 16:03:23,634 AutoBeamAndDose_fhc.py[line:159] DEBUG Start call: SortPhspFile in 2023-02-04 16:03:23
+2023-02-04 16:03:23,659 AutoBeamAndDose_fhc.py[line:159] DEBUG Stop  call: SortPhspFile in 2023-02-04 16:03:23, Total 0.02 seconds.
+2023-02-04 16:03:42,915 AutoBeamAndDose_fhc.py[line:159] DEBUG Stop  call: AddPhspNew in 2023-02-04 16:03:42, Total 20.95 seconds.
+2023-02-04 16:03:42,916 AutoBeamAndDose_fhc.py[line:159] DEBUG Stop  call: Beam in 2023-02-04 16:03:42, Total 187.29 seconds.
+2023-02-04 16:03:42,916 AutoBeamAndDose_fhc.py[line:159] DEBUG Stop  call: AutoTBL in 2023-02-04 16:03:42, Total 187.30 seconds.
+2023-02-04 16:03:42,916 AutoBeamAndDose_fhc.py[line:159] DEBUG Start call: AutoTBL in 2023-02-04 16:03:42
+2023-02-04 16:03:42,917 AutoBeamAndDose_fhc.py[line:159] DEBUG Start call: Beam in 2023-02-04 16:03:42
+2023-02-04 16:06:43,865 AutoBeamAndDose_fhc.py[line:159] DEBUG Start call: AddPhspNew in 2023-02-04 16:06:43
+2023-02-04 16:06:45,542 AutoBeamAndDose_fhc.py[line:159] DEBUG Start call: SortPhspFile in 2023-02-04 16:06:45
+2023-02-04 16:06:45,565 AutoBeamAndDose_fhc.py[line:159] DEBUG Stop  call: SortPhspFile in 2023-02-04 16:06:45, Total 0.02 seconds.
+2023-02-04 16:07:04,838 AutoBeamAndDose_fhc.py[line:159] DEBUG Stop  call: AddPhspNew in 2023-02-04 16:07:04, Total 20.97 seconds.
+2023-02-04 16:07:04,838 AutoBeamAndDose_fhc.py[line:159] DEBUG Stop  call: Beam in 2023-02-04 16:07:04, Total 201.92 seconds.
+2023-02-04 16:07:04,839 AutoBeamAndDose_fhc.py[line:159] DEBUG Stop  call: AutoTBL in 2023-02-04 16:07:04, Total 201.92 seconds.
+2023-02-04 16:07:04,839 AutoBeamAndDose_fhc.py[line:159] DEBUG Start call: AutoTBL in 2023-02-04 16:07:04
+2023-02-04 16:07:04,840 AutoBeamAndDose_fhc.py[line:159] DEBUG Start call: Beam in 2023-02-04 16:07:04
+2023-02-04 16:09:55,007 AutoBeamAndDose_fhc.py[line:159] DEBUG Start call: AddPhspNew in 2023-02-04 16:09:55
+2023-02-04 16:09:56,671 AutoBeamAndDose_fhc.py[line:159] DEBUG Start call: SortPhspFile in 2023-02-04 16:09:56
+2023-02-04 16:09:56,694 AutoBeamAndDose_fhc.py[line:159] DEBUG Stop  call: SortPhspFile in 2023-02-04 16:09:56, Total 0.02 seconds.
+2023-02-04 16:10:15,929 AutoBeamAndDose_fhc.py[line:159] DEBUG Stop  call: AddPhspNew in 2023-02-04 16:10:15, Total 20.92 seconds.
+2023-02-04 16:10:15,929 AutoBeamAndDose_fhc.py[line:159] DEBUG Stop  call: Beam in 2023-02-04 16:10:15, Total 191.09 seconds.
+2023-02-04 16:10:15,930 AutoBeamAndDose_fhc.py[line:159] DEBUG Stop  call: AutoTBL in 2023-02-04 16:10:15, Total 191.09 seconds.
+2023-02-04 16:10:15,930 AutoBeamAndDose_fhc.py[line:159] DEBUG Start call: AutoTBL in 2023-02-04 16:10:15
+2023-02-04 16:10:15,931 AutoBeamAndDose_fhc.py[line:159] DEBUG Start call: Beam in 2023-02-04 16:10:15
+2023-02-04 16:13:08,860 AutoBeamAndDose_fhc.py[line:159] DEBUG Start call: AddPhspNew in 2023-02-04 16:13:08
+2023-02-04 16:13:10,521 AutoBeamAndDose_fhc.py[line:159] DEBUG Start call: SortPhspFile in 2023-02-04 16:13:10
+2023-02-04 16:13:10,547 AutoBeamAndDose_fhc.py[line:159] DEBUG Stop  call: SortPhspFile in 2023-02-04 16:13:10, Total 0.02 seconds.
+2023-02-04 16:13:29,964 AutoBeamAndDose_fhc.py[line:159] DEBUG Stop  call: AddPhspNew in 2023-02-04 16:13:29, Total 21.10 seconds.
+2023-02-04 16:13:29,964 AutoBeamAndDose_fhc.py[line:159] DEBUG Stop  call: Beam in 2023-02-04 16:13:29, Total 194.03 seconds.
+2023-02-04 16:13:29,965 AutoBeamAndDose_fhc.py[line:159] DEBUG Stop  call: AutoTBL in 2023-02-04 16:13:29, Total 194.03 seconds.
+2023-02-04 16:13:29,965 AutoBeamAndDose_fhc.py[line:159] DEBUG Start call: AutoTBL in 2023-02-04 16:13:29
+2023-02-04 16:13:29,966 AutoBeamAndDose_fhc.py[line:159] DEBUG Start call: Beam in 2023-02-04 16:13:29
+2023-02-04 16:16:15,104 AutoBeamAndDose_fhc.py[line:159] DEBUG Start call: AddPhspNew in 2023-02-04 16:16:15
+2023-02-04 16:16:16,766 AutoBeamAndDose_fhc.py[line:159] DEBUG Start call: SortPhspFile in 2023-02-04 16:16:16
+2023-02-04 16:16:16,790 AutoBeamAndDose_fhc.py[line:159] DEBUG Stop  call: SortPhspFile in 2023-02-04 16:16:16, Total 0.02 seconds.
+2023-02-04 16:16:36,044 AutoBeamAndDose_fhc.py[line:159] DEBUG Stop  call: AddPhspNew in 2023-02-04 16:16:36, Total 20.94 seconds.
+2023-02-04 16:16:36,045 AutoBeamAndDose_fhc.py[line:159] DEBUG Stop  call: Beam in 2023-02-04 16:16:36, Total 186.08 seconds.
+2023-02-04 16:16:36,045 AutoBeamAndDose_fhc.py[line:159] DEBUG Stop  call: AutoTBL in 2023-02-04 16:16:36, Total 186.08 seconds.
+2023-02-04 16:16:36,046 AutoBeamAndDose_fhc.py[line:159] DEBUG Start call: AutoTBL in 2023-02-04 16:16:36
+2023-02-04 16:16:36,047 AutoBeamAndDose_fhc.py[line:159] DEBUG Start call: Beam in 2023-02-04 16:16:36
+2023-02-04 16:19:18,836 AutoBeamAndDose_fhc.py[line:159] DEBUG Start call: AddPhspNew in 2023-02-04 16:19:18
+2023-02-04 16:19:20,490 AutoBeamAndDose_fhc.py[line:159] DEBUG Start call: SortPhspFile in 2023-02-04 16:19:20
+2023-02-04 16:19:20,515 AutoBeamAndDose_fhc.py[line:159] DEBUG Stop  call: SortPhspFile in 2023-02-04 16:19:20, Total 0.02 seconds.
+2023-02-04 16:19:39,477 AutoBeamAndDose_fhc.py[line:159] DEBUG Stop  call: AddPhspNew in 2023-02-04 16:19:39, Total 20.64 seconds.
+2023-02-04 16:19:39,477 AutoBeamAndDose_fhc.py[line:159] DEBUG Stop  call: Beam in 2023-02-04 16:19:39, Total 183.43 seconds.
+2023-02-04 16:19:39,477 AutoBeamAndDose_fhc.py[line:159] DEBUG Stop  call: AutoTBL in 2023-02-04 16:19:39, Total 183.43 seconds.
+2023-02-04 16:19:39,478 AutoBeamAndDose_fhc.py[line:159] DEBUG Start call: AutoTBL in 2023-02-04 16:19:39
+2023-02-04 16:19:39,479 AutoBeamAndDose_fhc.py[line:159] DEBUG Start call: Beam in 2023-02-04 16:19:39
+2023-02-04 16:22:22,990 AutoBeamAndDose_fhc.py[line:159] DEBUG Start call: AddPhspNew in 2023-02-04 16:22:22
+2023-02-04 16:22:24,618 AutoBeamAndDose_fhc.py[line:159] DEBUG Start call: SortPhspFile in 2023-02-04 16:22:24
+2023-02-04 16:22:24,641 AutoBeamAndDose_fhc.py[line:159] DEBUG Stop  call: SortPhspFile in 2023-02-04 16:22:24, Total 0.02 seconds.
+2023-02-04 16:22:43,420 AutoBeamAndDose_fhc.py[line:159] DEBUG Stop  call: AddPhspNew in 2023-02-04 16:22:43, Total 20.43 seconds.
+2023-02-04 16:22:43,421 AutoBeamAndDose_fhc.py[line:159] DEBUG Stop  call: Beam in 2023-02-04 16:22:43, Total 183.94 seconds.
+2023-02-04 16:22:43,421 AutoBeamAndDose_fhc.py[line:159] DEBUG Stop  call: AutoTBL in 2023-02-04 16:22:43, Total 183.94 seconds.
+2023-02-04 16:22:43,421 AutoBeamAndDose_fhc.py[line:159] DEBUG Start call: AutoTBL in 2023-02-04 16:22:43
+2023-02-04 16:22:43,423 AutoBeamAndDose_fhc.py[line:159] DEBUG Start call: Beam in 2023-02-04 16:22:43
+2023-02-04 16:25:30,119 AutoBeamAndDose_fhc.py[line:159] DEBUG Start call: AddPhspNew in 2023-02-04 16:25:30
+2023-02-04 16:25:31,811 AutoBeamAndDose_fhc.py[line:159] DEBUG Start call: SortPhspFile in 2023-02-04 16:25:31
+2023-02-04 16:25:31,833 AutoBeamAndDose_fhc.py[line:159] DEBUG Stop  call: SortPhspFile in 2023-02-04 16:25:31, Total 0.02 seconds.
+2023-02-04 16:25:50,447 AutoBeamAndDose_fhc.py[line:159] DEBUG Stop  call: AddPhspNew in 2023-02-04 16:25:50, Total 20.33 seconds.
+2023-02-04 16:25:50,448 AutoBeamAndDose_fhc.py[line:159] DEBUG Stop  call: Beam in 2023-02-04 16:25:50, Total 187.02 seconds.
+2023-02-04 16:25:50,448 AutoBeamAndDose_fhc.py[line:159] DEBUG Stop  call: AutoTBL in 2023-02-04 16:25:50, Total 187.03 seconds.
+2023-02-04 16:25:50,448 AutoBeamAndDose_fhc.py[line:159] DEBUG Start call: AutoTBL in 2023-02-04 16:25:50
+2023-02-04 16:25:50,449 AutoBeamAndDose_fhc.py[line:159] DEBUG Start call: Beam in 2023-02-04 16:25:50
+2023-02-04 16:28:36,261 AutoBeamAndDose_fhc.py[line:159] DEBUG Start call: AddPhspNew in 2023-02-04 16:28:36
+2023-02-04 16:28:37,923 AutoBeamAndDose_fhc.py[line:159] DEBUG Start call: SortPhspFile in 2023-02-04 16:28:37
+2023-02-04 16:28:37,946 AutoBeamAndDose_fhc.py[line:159] DEBUG Stop  call: SortPhspFile in 2023-02-04 16:28:37, Total 0.02 seconds.
+2023-02-04 16:28:57,025 AutoBeamAndDose_fhc.py[line:159] DEBUG Stop  call: AddPhspNew in 2023-02-04 16:28:57, Total 20.76 seconds.
+2023-02-04 16:28:57,025 AutoBeamAndDose_fhc.py[line:159] DEBUG Stop  call: Beam in 2023-02-04 16:28:57, Total 186.58 seconds.
+2023-02-04 16:28:57,026 AutoBeamAndDose_fhc.py[line:159] DEBUG Stop  call: AutoTBL in 2023-02-04 16:28:57, Total 186.58 seconds.
+2023-02-04 16:28:57,026 AutoBeamAndDose_fhc.py[line:159] DEBUG Start call: AutoTBL in 2023-02-04 16:28:57
+2023-02-04 16:28:57,027 AutoBeamAndDose_fhc.py[line:159] DEBUG Start call: Beam in 2023-02-04 16:28:57
+2023-02-04 16:31:42,452 AutoBeamAndDose_fhc.py[line:159] DEBUG Start call: AddPhspNew in 2023-02-04 16:31:42
+2023-02-04 16:31:44,093 AutoBeamAndDose_fhc.py[line:159] DEBUG Start call: SortPhspFile in 2023-02-04 16:31:44
+2023-02-04 16:31:44,117 AutoBeamAndDose_fhc.py[line:159] DEBUG Stop  call: SortPhspFile in 2023-02-04 16:31:44, Total 0.02 seconds.
+2023-02-04 16:32:03,051 AutoBeamAndDose_fhc.py[line:159] DEBUG Stop  call: AddPhspNew in 2023-02-04 16:32:03, Total 20.60 seconds.
+2023-02-04 16:32:03,052 AutoBeamAndDose_fhc.py[line:159] DEBUG Stop  call: Beam in 2023-02-04 16:32:03, Total 186.02 seconds.
+2023-02-04 16:32:03,052 AutoBeamAndDose_fhc.py[line:159] DEBUG Stop  call: AutoTBL in 2023-02-04 16:32:03, Total 186.03 seconds.
+2023-02-04 16:32:03,052 AutoBeamAndDose_fhc.py[line:159] DEBUG Start call: AutoTBL in 2023-02-04 16:32:03
+2023-02-04 16:32:03,053 AutoBeamAndDose_fhc.py[line:159] DEBUG Start call: Beam in 2023-02-04 16:32:03
+2023-02-04 16:34:49,753 AutoBeamAndDose_fhc.py[line:159] DEBUG Start call: AddPhspNew in 2023-02-04 16:34:49
+2023-02-04 16:34:51,423 AutoBeamAndDose_fhc.py[line:159] DEBUG Start call: SortPhspFile in 2023-02-04 16:34:51
+2023-02-04 16:34:51,446 AutoBeamAndDose_fhc.py[line:159] DEBUG Stop  call: SortPhspFile in 2023-02-04 16:34:51, Total 0.02 seconds.
+2023-02-04 16:35:10,536 AutoBeamAndDose_fhc.py[line:159] DEBUG Stop  call: AddPhspNew in 2023-02-04 16:35:10, Total 20.78 seconds.
+2023-02-04 16:35:10,537 AutoBeamAndDose_fhc.py[line:159] DEBUG Stop  call: Beam in 2023-02-04 16:35:10, Total 187.48 seconds.
+2023-02-04 16:35:10,537 AutoBeamAndDose_fhc.py[line:159] DEBUG Stop  call: AutoTBL in 2023-02-04 16:35:10, Total 187.48 seconds.
+2023-02-04 16:35:10,537 AutoBeamAndDose_fhc.py[line:159] DEBUG Start call: AutoTBL in 2023-02-04 16:35:10
+2023-02-04 16:35:10,539 AutoBeamAndDose_fhc.py[line:159] DEBUG Start call: Beam in 2023-02-04 16:35:10
+2023-02-04 16:38:00,670 AutoBeamAndDose_fhc.py[line:159] DEBUG Start call: AddPhspNew in 2023-02-04 16:38:00
+2023-02-04 16:38:02,317 AutoBeamAndDose_fhc.py[line:159] DEBUG Start call: SortPhspFile in 2023-02-04 16:38:02
+2023-02-04 16:38:02,340 AutoBeamAndDose_fhc.py[line:159] DEBUG Stop  call: SortPhspFile in 2023-02-04 16:38:02, Total 0.02 seconds.
+2023-02-04 16:38:21,063 AutoBeamAndDose_fhc.py[line:159] DEBUG Stop  call: AddPhspNew in 2023-02-04 16:38:21, Total 20.39 seconds.
+2023-02-04 16:38:21,064 AutoBeamAndDose_fhc.py[line:159] DEBUG Stop  call: Beam in 2023-02-04 16:38:21, Total 190.53 seconds.
+2023-02-04 16:38:21,064 AutoBeamAndDose_fhc.py[line:159] DEBUG Stop  call: AutoTBL in 2023-02-04 16:38:21, Total 190.53 seconds.
+2023-02-04 16:38:21,064 AutoBeamAndDose_fhc.py[line:159] DEBUG Start call: AutoTBL in 2023-02-04 16:38:21
+2023-02-04 16:38:21,066 AutoBeamAndDose_fhc.py[line:159] DEBUG Start call: Beam in 2023-02-04 16:38:21
+2023-02-04 16:41:04,606 AutoBeamAndDose_fhc.py[line:159] DEBUG Start call: AddPhspNew in 2023-02-04 16:41:04
+2023-02-04 16:41:06,301 AutoBeamAndDose_fhc.py[line:159] DEBUG Start call: SortPhspFile in 2023-02-04 16:41:06
+2023-02-04 16:41:06,325 AutoBeamAndDose_fhc.py[line:159] DEBUG Stop  call: SortPhspFile in 2023-02-04 16:41:06, Total 0.02 seconds.
+2023-02-04 16:41:25,229 AutoBeamAndDose_fhc.py[line:159] DEBUG Stop  call: AddPhspNew in 2023-02-04 16:41:25, Total 20.62 seconds.
+2023-02-04 16:41:25,230 AutoBeamAndDose_fhc.py[line:159] DEBUG Stop  call: Beam in 2023-02-04 16:41:25, Total 184.16 seconds.
+2023-02-04 16:41:25,230 AutoBeamAndDose_fhc.py[line:159] DEBUG Stop  call: AutoTBL in 2023-02-04 16:41:25, Total 184.17 seconds.
+2023-02-04 16:41:25,230 AutoBeamAndDose_fhc.py[line:159] DEBUG Start call: AutoTBL in 2023-02-04 16:41:25
+2023-02-04 16:41:25,231 AutoBeamAndDose_fhc.py[line:159] DEBUG Start call: Beam in 2023-02-04 16:41:25
+2023-02-04 16:44:10,846 AutoBeamAndDose_fhc.py[line:159] DEBUG Start call: AddPhspNew in 2023-02-04 16:44:10
+2023-02-04 16:44:12,488 AutoBeamAndDose_fhc.py[line:159] DEBUG Start call: SortPhspFile in 2023-02-04 16:44:12
+2023-02-04 16:44:12,511 AutoBeamAndDose_fhc.py[line:159] DEBUG Stop  call: SortPhspFile in 2023-02-04 16:44:12, Total 0.02 seconds.
+2023-02-04 16:44:31,577 AutoBeamAndDose_fhc.py[line:159] DEBUG Stop  call: AddPhspNew in 2023-02-04 16:44:31, Total 20.73 seconds.
+2023-02-04 16:44:31,578 AutoBeamAndDose_fhc.py[line:159] DEBUG Stop  call: Beam in 2023-02-04 16:44:31, Total 186.35 seconds.
+2023-02-04 16:44:31,578 AutoBeamAndDose_fhc.py[line:159] DEBUG Stop  call: AutoTBL in 2023-02-04 16:44:31, Total 186.35 seconds.
+2023-02-04 16:44:31,578 AutoBeamAndDose_fhc.py[line:159] DEBUG Start call: AutoTBL in 2023-02-04 16:44:31
+2023-02-04 16:44:31,579 AutoBeamAndDose_fhc.py[line:159] DEBUG Start call: Beam in 2023-02-04 16:44:31
+2023-02-04 16:47:17,966 AutoBeamAndDose_fhc.py[line:159] DEBUG Start call: AddPhspNew in 2023-02-04 16:47:17
+2023-02-04 16:47:19,608 AutoBeamAndDose_fhc.py[line:159] DEBUG Start call: SortPhspFile in 2023-02-04 16:47:19
+2023-02-04 16:47:19,632 AutoBeamAndDose_fhc.py[line:159] DEBUG Stop  call: SortPhspFile in 2023-02-04 16:47:19, Total 0.02 seconds.
+2023-02-04 16:47:38,596 AutoBeamAndDose_fhc.py[line:159] DEBUG Stop  call: AddPhspNew in 2023-02-04 16:47:38, Total 20.63 seconds.
+2023-02-04 16:47:38,596 AutoBeamAndDose_fhc.py[line:159] DEBUG Stop  call: Beam in 2023-02-04 16:47:38, Total 187.02 seconds.
+2023-02-04 16:47:38,597 AutoBeamAndDose_fhc.py[line:159] DEBUG Stop  call: AutoTBL in 2023-02-04 16:47:38, Total 187.02 seconds.
+2023-02-04 16:47:38,597 AutoBeamAndDose_fhc.py[line:159] DEBUG Start call: AutoTBL in 2023-02-04 16:47:38
+2023-02-04 16:47:38,598 AutoBeamAndDose_fhc.py[line:159] DEBUG Start call: Beam in 2023-02-04 16:47:38
+2023-02-04 16:50:24,893 AutoBeamAndDose_fhc.py[line:159] DEBUG Start call: AddPhspNew in 2023-02-04 16:50:24
+2023-02-04 16:50:26,553 AutoBeamAndDose_fhc.py[line:159] DEBUG Start call: SortPhspFile in 2023-02-04 16:50:26
+2023-02-04 16:50:26,576 AutoBeamAndDose_fhc.py[line:159] DEBUG Stop  call: SortPhspFile in 2023-02-04 16:50:26, Total 0.02 seconds.
+2023-02-04 16:50:45,872 AutoBeamAndDose_fhc.py[line:159] DEBUG Stop  call: AddPhspNew in 2023-02-04 16:50:45, Total 20.98 seconds.
+2023-02-04 16:50:45,873 AutoBeamAndDose_fhc.py[line:159] DEBUG Stop  call: Beam in 2023-02-04 16:50:45, Total 187.27 seconds.
+2023-02-04 16:50:45,873 AutoBeamAndDose_fhc.py[line:159] DEBUG Stop  call: AutoTBL in 2023-02-04 16:50:45, Total 187.28 seconds.
+2023-02-04 16:50:45,873 AutoBeamAndDose_fhc.py[line:159] DEBUG Start call: AutoTBL in 2023-02-04 16:50:45
+2023-02-04 16:50:45,874 AutoBeamAndDose_fhc.py[line:159] DEBUG Start call: Beam in 2023-02-04 16:50:45
+2023-02-04 16:53:32,610 AutoBeamAndDose_fhc.py[line:159] DEBUG Start call: AddPhspNew in 2023-02-04 16:53:32
+2023-02-04 16:53:34,251 AutoBeamAndDose_fhc.py[line:159] DEBUG Start call: SortPhspFile in 2023-02-04 16:53:34
+2023-02-04 16:53:34,276 AutoBeamAndDose_fhc.py[line:159] DEBUG Stop  call: SortPhspFile in 2023-02-04 16:53:34, Total 0.03 seconds.
+2023-02-04 16:53:53,418 AutoBeamAndDose_fhc.py[line:159] DEBUG Stop  call: AddPhspNew in 2023-02-04 16:53:53, Total 20.81 seconds.
+2023-02-04 16:53:53,419 AutoBeamAndDose_fhc.py[line:159] DEBUG Stop  call: Beam in 2023-02-04 16:53:53, Total 187.54 seconds.
+2023-02-04 16:53:53,419 AutoBeamAndDose_fhc.py[line:159] DEBUG Stop  call: AutoTBL in 2023-02-04 16:53:53, Total 187.55 seconds.
+2023-02-04 16:53:53,419 AutoBeamAndDose_fhc.py[line:159] DEBUG Start call: AutoTBL in 2023-02-04 16:53:53
+2023-02-04 16:53:53,421 AutoBeamAndDose_fhc.py[line:159] DEBUG Start call: Beam in 2023-02-04 16:53:53
+2023-02-04 16:56:38,884 AutoBeamAndDose_fhc.py[line:159] DEBUG Start call: AddPhspNew in 2023-02-04 16:56:38
+2023-02-04 16:56:40,526 AutoBeamAndDose_fhc.py[line:159] DEBUG Start call: SortPhspFile in 2023-02-04 16:56:40
+2023-02-04 16:56:40,551 AutoBeamAndDose_fhc.py[line:159] DEBUG Stop  call: SortPhspFile in 2023-02-04 16:56:40, Total 0.02 seconds.
+2023-02-04 16:56:59,826 AutoBeamAndDose_fhc.py[line:159] DEBUG Stop  call: AddPhspNew in 2023-02-04 16:56:59, Total 20.94 seconds.
+2023-02-04 16:56:59,826 AutoBeamAndDose_fhc.py[line:159] DEBUG Stop  call: Beam in 2023-02-04 16:56:59, Total 186.41 seconds.
+2023-02-04 16:56:59,827 AutoBeamAndDose_fhc.py[line:159] DEBUG Stop  call: AutoTBL in 2023-02-04 16:56:59, Total 186.41 seconds.
+2023-02-04 16:56:59,827 AutoBeamAndDose_fhc.py[line:159] DEBUG Start call: AutoTBL in 2023-02-04 16:56:59
+2023-02-04 16:56:59,828 AutoBeamAndDose_fhc.py[line:159] DEBUG Start call: Beam in 2023-02-04 16:56:59
+2023-02-04 16:59:44,035 AutoBeamAndDose_fhc.py[line:159] DEBUG Start call: AddPhspNew in 2023-02-04 16:59:44
+2023-02-04 16:59:45,678 AutoBeamAndDose_fhc.py[line:159] DEBUG Start call: SortPhspFile in 2023-02-04 16:59:45
+2023-02-04 16:59:45,702 AutoBeamAndDose_fhc.py[line:159] DEBUG Stop  call: SortPhspFile in 2023-02-04 16:59:45, Total 0.02 seconds.
+2023-02-04 17:00:04,741 AutoBeamAndDose_fhc.py[line:159] DEBUG Stop  call: AddPhspNew in 2023-02-04 17:00:04, Total 20.71 seconds.
+2023-02-04 17:00:04,742 AutoBeamAndDose_fhc.py[line:159] DEBUG Stop  call: Beam in 2023-02-04 17:00:04, Total 184.91 seconds.
+2023-02-04 17:00:04,742 AutoBeamAndDose_fhc.py[line:159] DEBUG Stop  call: AutoTBL in 2023-02-04 17:00:04, Total 184.92 seconds.
+2023-02-04 17:00:04,742 AutoBeamAndDose_fhc.py[line:159] DEBUG Start call: AutoTBL in 2023-02-04 17:00:04
+2023-02-04 17:00:04,743 AutoBeamAndDose_fhc.py[line:159] DEBUG Start call: Beam in 2023-02-04 17:00:04
+2023-02-04 17:02:46,973 AutoBeamAndDose_fhc.py[line:159] DEBUG Start call: AddPhspNew in 2023-02-04 17:02:46
+2023-02-04 17:02:48,635 AutoBeamAndDose_fhc.py[line:159] DEBUG Start call: SortPhspFile in 2023-02-04 17:02:48
+2023-02-04 17:02:48,659 AutoBeamAndDose_fhc.py[line:159] DEBUG Stop  call: SortPhspFile in 2023-02-04 17:02:48, Total 0.02 seconds.
+2023-02-04 17:03:07,902 AutoBeamAndDose_fhc.py[line:159] DEBUG Stop  call: AddPhspNew in 2023-02-04 17:03:07, Total 20.93 seconds.
+2023-02-04 17:03:07,903 AutoBeamAndDose_fhc.py[line:159] DEBUG Stop  call: Beam in 2023-02-04 17:03:07, Total 183.16 seconds.
+2023-02-04 17:03:07,903 AutoBeamAndDose_fhc.py[line:159] DEBUG Stop  call: AutoTBL in 2023-02-04 17:03:07, Total 183.16 seconds.
+2023-02-04 17:03:07,904 AutoBeamAndDose_fhc.py[line:159] DEBUG Start call: AutoTBL in 2023-02-04 17:03:07
+2023-02-04 17:03:07,905 AutoBeamAndDose_fhc.py[line:159] DEBUG Start call: Beam in 2023-02-04 17:03:07
+2023-02-04 17:05:53,153 AutoBeamAndDose_fhc.py[line:159] DEBUG Start call: AddPhspNew in 2023-02-04 17:05:53
+2023-02-04 17:05:54,790 AutoBeamAndDose_fhc.py[line:159] DEBUG Start call: SortPhspFile in 2023-02-04 17:05:54
+2023-02-04 17:05:54,816 AutoBeamAndDose_fhc.py[line:159] DEBUG Stop  call: SortPhspFile in 2023-02-04 17:05:54, Total 0.03 seconds.
+2023-02-04 17:06:14,014 AutoBeamAndDose_fhc.py[line:159] DEBUG Stop  call: AddPhspNew in 2023-02-04 17:06:14, Total 20.86 seconds.
+2023-02-04 17:06:14,014 AutoBeamAndDose_fhc.py[line:159] DEBUG Stop  call: Beam in 2023-02-04 17:06:14, Total 186.11 seconds.
+2023-02-04 17:06:14,015 AutoBeamAndDose_fhc.py[line:159] DEBUG Stop  call: AutoTBL in 2023-02-04 17:06:14, Total 186.11 seconds.
+2023-02-04 17:06:14,015 AutoBeamAndDose_fhc.py[line:159] DEBUG Start call: AutoTBL in 2023-02-04 17:06:14
+2023-02-04 17:06:14,016 AutoBeamAndDose_fhc.py[line:159] DEBUG Start call: Beam in 2023-02-04 17:06:14
+2023-02-04 17:09:04,614 AutoBeamAndDose_fhc.py[line:159] DEBUG Start call: AddPhspNew in 2023-02-04 17:09:04
+2023-02-04 17:09:06,266 AutoBeamAndDose_fhc.py[line:159] DEBUG Start call: SortPhspFile in 2023-02-04 17:09:06
+2023-02-04 17:09:06,291 AutoBeamAndDose_fhc.py[line:159] DEBUG Stop  call: SortPhspFile in 2023-02-04 17:09:06, Total 0.02 seconds.
+2023-02-04 17:09:25,390 AutoBeamAndDose_fhc.py[line:159] DEBUG Stop  call: AddPhspNew in 2023-02-04 17:09:25, Total 20.78 seconds.
+2023-02-04 17:09:25,391 AutoBeamAndDose_fhc.py[line:159] DEBUG Stop  call: Beam in 2023-02-04 17:09:25, Total 191.37 seconds.
+2023-02-04 17:09:25,391 AutoBeamAndDose_fhc.py[line:159] DEBUG Stop  call: AutoTBL in 2023-02-04 17:09:25, Total 191.38 seconds.
+2023-02-04 17:09:25,391 AutoBeamAndDose_fhc.py[line:159] DEBUG Start call: AutoTBL in 2023-02-04 17:09:25
+2023-02-04 17:09:25,393 AutoBeamAndDose_fhc.py[line:159] DEBUG Start call: Beam in 2023-02-04 17:09:25
+2023-02-04 17:12:11,796 AutoBeamAndDose_fhc.py[line:159] DEBUG Start call: AddPhspNew in 2023-02-04 17:12:11
+2023-02-04 17:12:13,450 AutoBeamAndDose_fhc.py[line:159] DEBUG Start call: SortPhspFile in 2023-02-04 17:12:13
+2023-02-04 17:12:13,473 AutoBeamAndDose_fhc.py[line:159] DEBUG Stop  call: SortPhspFile in 2023-02-04 17:12:13, Total 0.02 seconds.
+2023-02-04 17:12:32,471 AutoBeamAndDose_fhc.py[line:159] DEBUG Stop  call: AddPhspNew in 2023-02-04 17:12:32, Total 20.67 seconds.
+2023-02-04 17:12:32,472 AutoBeamAndDose_fhc.py[line:159] DEBUG Stop  call: Beam in 2023-02-04 17:12:32, Total 187.08 seconds.
+2023-02-04 17:12:32,472 AutoBeamAndDose_fhc.py[line:159] DEBUG Stop  call: AutoTBL in 2023-02-04 17:12:32, Total 187.08 seconds.
+2023-02-04 17:12:32,472 AutoBeamAndDose_fhc.py[line:159] DEBUG Start call: AutoTBL in 2023-02-04 17:12:32
+2023-02-04 17:12:32,473 AutoBeamAndDose_fhc.py[line:159] DEBUG Start call: Beam in 2023-02-04 17:12:32
+2023-02-04 17:15:18,760 AutoBeamAndDose_fhc.py[line:159] DEBUG Start call: AddPhspNew in 2023-02-04 17:15:18
+2023-02-04 17:15:20,410 AutoBeamAndDose_fhc.py[line:159] DEBUG Start call: SortPhspFile in 2023-02-04 17:15:20
+2023-02-04 17:15:20,435 AutoBeamAndDose_fhc.py[line:159] DEBUG Stop  call: SortPhspFile in 2023-02-04 17:15:20, Total 0.02 seconds.
+2023-02-04 17:15:39,155 AutoBeamAndDose_fhc.py[line:159] DEBUG Stop  call: AddPhspNew in 2023-02-04 17:15:39, Total 20.39 seconds.
+2023-02-04 17:15:39,156 AutoBeamAndDose_fhc.py[line:159] DEBUG Stop  call: Beam in 2023-02-04 17:15:39, Total 186.68 seconds.
+2023-02-04 17:15:39,156 AutoBeamAndDose_fhc.py[line:159] DEBUG Stop  call: AutoTBL in 2023-02-04 17:15:39, Total 186.68 seconds.
+2023-02-04 17:15:39,156 AutoBeamAndDose_fhc.py[line:159] DEBUG Start call: AutoTBL in 2023-02-04 17:15:39
+2023-02-04 17:15:39,158 AutoBeamAndDose_fhc.py[line:159] DEBUG Start call: Beam in 2023-02-04 17:15:39
+2023-02-04 17:18:24,846 AutoBeamAndDose_fhc.py[line:159] DEBUG Start call: AddPhspNew in 2023-02-04 17:18:24
+2023-02-04 17:18:26,580 AutoBeamAndDose_fhc.py[line:159] DEBUG Start call: SortPhspFile in 2023-02-04 17:18:26
+2023-02-04 17:18:26,603 AutoBeamAndDose_fhc.py[line:159] DEBUG Stop  call: SortPhspFile in 2023-02-04 17:18:26, Total 0.02 seconds.
+2023-02-04 17:18:45,700 AutoBeamAndDose_fhc.py[line:159] DEBUG Stop  call: AddPhspNew in 2023-02-04 17:18:45, Total 20.85 seconds.
+2023-02-04 17:18:45,701 AutoBeamAndDose_fhc.py[line:159] DEBUG Stop  call: Beam in 2023-02-04 17:18:45, Total 186.54 seconds.
+2023-02-04 17:18:45,701 AutoBeamAndDose_fhc.py[line:159] DEBUG Stop  call: AutoTBL in 2023-02-04 17:18:45, Total 186.54 seconds.
+2023-02-04 17:18:45,701 AutoBeamAndDose_fhc.py[line:159] DEBUG Start call: AutoTBL in 2023-02-04 17:18:45
+2023-02-04 17:18:45,703 AutoBeamAndDose_fhc.py[line:159] DEBUG Start call: Beam in 2023-02-04 17:18:45
+2023-02-04 17:21:29,398 AutoBeamAndDose_fhc.py[line:159] DEBUG Start call: AddPhspNew in 2023-02-04 17:21:29
+2023-02-04 17:21:31,143 AutoBeamAndDose_fhc.py[line:159] DEBUG Start call: SortPhspFile in 2023-02-04 17:21:31
+2023-02-04 17:21:31,169 AutoBeamAndDose_fhc.py[line:159] DEBUG Stop  call: SortPhspFile in 2023-02-04 17:21:31, Total 0.03 seconds.

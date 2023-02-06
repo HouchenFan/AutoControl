@@ -1,0 +1,7 @@
+EGSnrc egs-parallel 2022-09-27 (UTC) 07:39:01.120363802: BEGIN egs-parallel
+EGSnrc egs-parallel 2022-09-27 (UTC) 07:39:01.124057965: EGSnrc environment:
+EGSnrc egs-parallel 2022-09-27 (UTC) 07:39:01.127711561:     HEN_HOUSE  = /home/uih/EGSnrc/HEN_HOUSE/
+EGSnrc egs-parallel 2022-09-27 (UTC) 07:39:01.131292972:     EGS_HOME   = /home/uih/EGSnrc/egs_home
+EGSnrc egs-parallel 2022-09-27 (UTC) 07:39:01.134902104:     EGS_CONFIG = /home/uih/EGSnrc/HEN_HOUSE/specs/linux64.conf
+EGSnrc egs-parallel 2022-09-27 (UTC) 07:39:01.143833579: egs-parallel: line 174: no such egsnrc executable found: -i
+EGSnrc egs-parallel 2022-09-27 (UTC) 07:39:01.147421213: QUIT.
